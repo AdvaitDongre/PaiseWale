@@ -1,0 +1,47 @@
+{
+    "RELIANCE.NS": {
+        "current_price": 1246.3,
+        "previous_close": 1263.65,
+        "open": 1266.0,
+        "day_low": 1243.5,
+        "day_high": 1273.0,
+        "market_cap": 16865430601728,
+        "volume": 14233310
+    },
+    "TCS.NS": {
+        "current_price": 4152.35,
+        "previous_close": 4145.45,
+        "open": 4104.0,
+        "day_low": 4104.0,
+        "day_high": 4178.0,
+        "market_cap": 15023576449024,
+        "volume": 1910003
+    },
+    "INFY.NS": {
+        "current_price": 1875.45,
+        "previous_close": 1865.45,
+        "open": 1865.5,
+        "day_low": 1864.25,
+        "day_high": 1894.9,
+        "market_cap": 7768282497024,
+        "volume": 4886090
+    },
+    "HDFCBANK.NS": {
+        "current_price": 1649.8,
+        "previous_close": 1664.9,
+        "open": 1660.0,
+        "day_low": 1644.5,
+        "day_high": 1670.3,
+        "market_cap": 12618166173696,
+        "volume": 12116638
+    },
+    "ICICIBANK.NS": {
+        "current_price": 1209.2,
+        "previous_close": 1201.75,
+        "open": 1203.1,
+        "day_low": 1202.0,
+        "day_high": 1218.0,
+        "market_cap": 8537918930944,
+        "volume": 9214599
+    }
+}
