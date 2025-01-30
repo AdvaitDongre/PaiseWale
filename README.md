@@ -32,10 +32,6 @@ Follow these steps to set up and run the project locally:
    ```
 
 3. Start the frontend server:
-   - Navigate to the frontend directory:
-     ```bash
-     cd frontend
-     ```
    - Install frontend dependencies:
      ```bash
      yarn install
