@@ -1,4 +1,4 @@
-# PaiseWale
+# PaiseWale: [LIVE](https://paise-wale-3t789e72a-adindongre106-gmailcoms-projects.vercel.app/)
 
 PaiseWale is a modern, feature-rich application built with a powerful tech stack to deliver a seamless user experience. The project leverages frontend technologies to create an efficient, scalable, and interactive platform.
 
